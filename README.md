@@ -52,6 +52,12 @@ A full **GPT-style language model built and trained from scratch**, including co
 
 ---
 
+### 🛡 GuardPrompt AI  
+An AI-powered cybersecurity tool that detects **prompt injection/jailbreak attempts**, **phishing emails**, and **malicious code patterns** using Hugging Face security-focused models.
+
+🔗 https://github.com/AndreiTihoc/GuardPromptAI  
+
+---
 ### 🤖 Sui Transaction Explainer
 An AI-powered system designed to **interpret and explain blockchain transactions**, helping users understand complex on-chain actions safely.
 
